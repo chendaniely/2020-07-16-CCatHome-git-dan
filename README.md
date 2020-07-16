@@ -23,3 +23,4 @@ CarpentryCon at Home 2020
 - `git stash`: "saves" your temp work
     - `git stash list`: to show your stashes
     - `git sash apply`: to apply your last stash
+Hello from Drake
