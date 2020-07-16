@@ -18,3 +18,7 @@ Carpentries at Home 2020
 - `git branch -d <branch_name>`: this will delete <branch_name> on your local computer
 - `git fetch --prune`: will update your local git tree with the remote
     - the prune will also delete references to branches that were deleted on the remote
+
+- `git stash`: "saves" your temp work
+    - `git stash list`: to show your stashes
+    - `git sash apply`: to apply your last stash
