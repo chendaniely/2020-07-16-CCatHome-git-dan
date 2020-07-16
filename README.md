@@ -1,4 +1,5 @@
-# 2020-07-16-CCatHome-git-dan
+# CarpentryCon@Home 2020 Git Collaboration
+
 Carpentries at Home 2020
 
 - `git clone <url>`: download the repo from the web to your computer
